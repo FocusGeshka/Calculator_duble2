@@ -33,11 +33,7 @@
     - Visual Studio 2022 или новее;
     - Компонент **«Средства универсальной платформы Windows»** в Visual Studio;
 
-2. Клонируйте проект:
-```git
-git clone https://github.com/Artemenyh/Calculator_duble2
-```
-3. Откройте **Calculator.sln** и запустите проект;
+2. Откройте **Calculator.sln** и запустите проект;
 
 # Илюстрация работы приложения
 
